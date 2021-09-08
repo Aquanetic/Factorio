@@ -25,6 +25,6 @@ Factorio Mod List
 - Rocket-Silo Construction
 - Space Extension Mod
 - Squeak Through
-- VihicleSnap
+- VehicleSnap
 
 Einfach Herunterladen und Spaß haben!
