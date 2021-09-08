@@ -28,3 +28,5 @@ Factorio Mod List
 - VehicleSnap
 
 Einfach Herunterladen und Spaß haben!
+
+Import %appdata%/Factorio/mods
